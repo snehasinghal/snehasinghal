@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Singhal</h1>
-- 🎓 I’m currently a student at **KIET Group of Institutions,Ghaziabad**
+-     *🎓 I’m currently pursuing **M.C.A  From KIET Group of Institutions,Ghaziabad*!*
 
 - 🌱 I’m currently learning **Python, Data Structures**
 
