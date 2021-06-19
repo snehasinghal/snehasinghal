@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Singhal</h1>
--   :mortar_board: Currently pursuing **Masters of Computer Applications**, *From*, **KIET Group of Institution**, *Ghaziabad.*
+
 
 - 🌱 I’m currently learning **Python, Data Structures**
 
