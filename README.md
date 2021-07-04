@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **snehasinghal073@gmail.com**
 
-- ⚡ Fun fact **Cooking is my stress reliever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
